@@ -34,4 +34,8 @@ if is_student:
 else:
   print("you are not student")
 
-  
+
+name =  input("Enter your name")
+age =  input("Enter your age")
+
+print(f"hello my name is {name} and i am {age} year old ")

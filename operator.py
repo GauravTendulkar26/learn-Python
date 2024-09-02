@@ -1,4 +1,3 @@
-
 print(4/2)
 print(4//2) # floor division
 print(4%2) # give reminder 
